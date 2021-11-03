@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/salceapp/static/css/main.a617e044.chunk.css",
+    "main.js": "/salceapp/static/js/main.66ffb4d6.chunk.js",
+    "main.js.map": "/salceapp/static/js/main.66ffb4d6.chunk.js.map",
+    "runtime-main.js": "/salceapp/static/js/runtime-main.28e08013.js",
+    "runtime-main.js.map": "/salceapp/static/js/runtime-main.28e08013.js.map",
+    "static/js/2.541b0ce1.chunk.js": "/salceapp/static/js/2.541b0ce1.chunk.js",
+    "static/js/2.541b0ce1.chunk.js.map": "/salceapp/static/js/2.541b0ce1.chunk.js.map",
+    "static/js/3.a0f69517.chunk.js": "/salceapp/static/js/3.a0f69517.chunk.js",
+    "static/js/3.a0f69517.chunk.js.map": "/salceapp/static/js/3.a0f69517.chunk.js.map",
+    "index.html": "/salceapp/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/salceapp/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.541b0ce1.chunk.js.LICENSE.txt": "/salceapp/static/js/2.541b0ce1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/salceapp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28e08013.js",
+    "static/js/2.541b0ce1.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.66ffb4d6.chunk.js"
+  ]
+}
