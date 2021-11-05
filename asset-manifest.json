@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/salceapp/static/css/main.bb81fff6.chunk.css",
-    "main.js": "/salceapp/static/js/main.0c319cf7.chunk.js",
-    "main.js.map": "/salceapp/static/js/main.0c319cf7.chunk.js.map",
+    "main.js": "/salceapp/static/js/main.00ffa55e.chunk.js",
+    "main.js.map": "/salceapp/static/js/main.00ffa55e.chunk.js.map",
     "runtime-main.js": "/salceapp/static/js/runtime-main.304ae416.js",
     "runtime-main.js.map": "/salceapp/static/js/runtime-main.304ae416.js.map",
     "static/js/2.620a7cde.chunk.js": "/salceapp/static/js/2.620a7cde.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.304ae416.js",
     "static/js/2.620a7cde.chunk.js",
     "static/css/main.bb81fff6.chunk.css",
-    "static/js/main.0c319cf7.chunk.js"
+    "static/js/main.00ffa55e.chunk.js"
   ]
 }
